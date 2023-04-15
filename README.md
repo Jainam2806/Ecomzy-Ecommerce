@@ -1,1 +1,1 @@
-# ReduxPro
+# Ecomzy-Ecommerce
